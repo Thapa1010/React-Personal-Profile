@@ -1,7 +1,7 @@
 function Main() {
   return (
     <div className="card">
-      <img src="../src/assets/me.jpg" alt="me" />
+      <img src="./me.jpg" alt="me" />
     </div>
   );
 }

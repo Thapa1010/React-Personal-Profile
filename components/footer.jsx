@@ -2,16 +2,16 @@ function Footer() {
   return (
     <div className="footer">
       <a href="">
-        <img src="../src/assets/facebook.png" />
+        <img src="./facebook.png" />
       </a>
       <a href="">
-        <img src="../src/assets/github.png" />
+        <img src="./github.png" />
       </a>
       <a href="">
-        <img src="../src/assets/instagram.png" />
+        <img src="./instagram.png" />
       </a>
       <a href="">
-        <img src="../src/assets/twitter.png" />
+        <img src="./twitter.png" />
       </a>
     </div>
   );

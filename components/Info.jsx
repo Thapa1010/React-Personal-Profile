@@ -7,7 +7,7 @@ function Info() {
       <div className="buttons">
         <a className="btn btn__1">
           <div className="btn-item">
-            <img src="../src/assets/icon.png" />
+            <img src="./icon.png" />
             <p>Email</p>
           </div>
         </a>
