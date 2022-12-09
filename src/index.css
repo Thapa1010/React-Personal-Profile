@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #23252c;
+  display: flex;
+  justify-content: center;
+  margin-top: 1%;
+}
+:root {
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  padding: 0;
+}
